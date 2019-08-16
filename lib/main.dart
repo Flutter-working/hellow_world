@@ -47,6 +47,9 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             Text(
+              'it is for ui changes',
+            ),
+            Text(
               'it is for git hub both side texting',
             ),
             Text(
