@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+import './button.dart';
+
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
@@ -59,6 +61,7 @@ class _MyHomePageState extends State<MyHomePage> {
             Text(
               'from my home',
             ),
+            Button(),
           ],
         ),
       ),
