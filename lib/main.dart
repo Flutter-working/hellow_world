@@ -48,12 +48,7 @@ class _MyHomePageState extends State<MyHomePage> {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-            Text(
-              'it is for ui changes',
-            ),
-            Text(
-              'it is for git hub both side texting',
-            ),
+     //delete two text from here for checking...
             Text(
               '$_counter',
               style: Theme.of(context).textTheme.display1,
