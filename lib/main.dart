@@ -49,6 +49,8 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
      //delete two text from here for checking...
+            //added text again from college..repo
+            Text("from college "),
             Text(
               '$_counter',
               style: Theme.of(context).textTheme.display1,
